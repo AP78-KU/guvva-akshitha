@@ -1,0 +1,43 @@
+# digital electronics                                                                                                                                                                                               
+# what is digital electronics?     
+     DIGITAL ELECTRONICS is a field of electronics involving the study of digital signals and the engineering of devices that use or produce them.It deals with tha relationship between binary inputs 
+     and outputs by passing electrical signals thourgh logical gates, resistors, capacitors,amplifiers,, and other electrical components.Digital electronics is a branch of electronics that deals with 
+     systems and devices that use digital signals, which are dicrete representation of data typicallyusing binary code (0s and 1s).unlike analog electronics, which deals with continuos signals, digital
+     electronics processes data in finite set of values.
+     DIGITAL SIGNALS 
+      Digtal signals represent data using a finite number of levels,commonly binary(o and 1), according to chipEdge VlSI training company. This discrete representaion maks them less susceptiable to noise 
+      and easier to stire and transimit compared to analog signals.
+      LOGIC GATES
+       DIGITRAL ELECTRONICS uses logic gates (AND OR NOT) to perform logical operations on binary signals. these gates are building block of digital circuits
+      DIGITAL CIRCUITS 
+       digital circuits of composed of logic gates and other components that process and manipulate digiatal signals.they are used to implement various functions such as arithmetic operations, data storage 
+       and contol logic.
+# APPLICATIONS OF DIGITAL ELECTRONICS.
+       digital electronics have numerous applications forming the foundation of many modern devices and systems. in essence digital electronics are the backbone of modern technolgy, enabling to us to store 
+        process, and transimitt information efficiently.
+       *digital electronics are used in computers for performing the several functions like to store, process, and transimitt data.
+       *digital circuits are essential for communication networks,facillitating data transmission and storage.
+       *it is als used in hard drives, SSDs, and other mwmory devices for performing the data storage and retrieval
+       *digital electronics are used in alla aspects of mobile phone technology,from signal processing to data storage and networking.
+       *it is used in intarnet functionality, data transimission, routing, and web servers.
+       *it is also used in satellite communication systems for transimmitting and receiving sgnals across vast diastances.
+       *digital electronics are crucial for high definition video processing, audio output,and inserctive gane experiences
+       *digiatal electronics are used in wide range of automative systems, including engine control,navigation,and safety features.
+       *digital circuits used in traffic lights, intealligent transporation systems, and other automated systems.
+       *it is also used in PLCs and other industial control systems .
+       *it is also used for controlling and operating.
+       *it is also used in medical equipment, home applinces, and other applications.
+#LOGIC LEVELS IN DIGITAL ELECTRONICS.
+        in digital electronics, logic levels represent the two binary states(0 and 1).as voltage levels in a circuit a logic high 1 is typically a higher voltage than logic low.the specific voltage range for logic high and low are defined by the technology used in circuit such as TTL or CMOS
+
+
+
+
+
+
+
+
+
+
+
+
