@@ -8,6 +8,8 @@ This repository contains educational content on **Digital elctronics** covering 
 - [Applications of digital electronics](#Application-OF-digital-electronics)
 - [Digital vs analog signals](#digital-vs-analog-signals)
 - [logic levels](#logic-levels)
+- [Number systems ](#number-system)
+- [conversion between the number systems](#conversion-between-the-number-systems)
 
 ---
 
@@ -32,7 +34,7 @@ digital electronics are the backbone of modern technology, enabling us to store,
 - **medical applications:** X ray machines,MRI scanners,patient monitoring systems.medical devices.
 - **home appliances:** refrigerators, washing machines, microwaves.
 -
--       # Digital vs Analog signals
+# Digtal vs Analog signals
 
 | Feature            | Analog Signals                        | Digital Signals                          |                                                                                                                           |
 | ------------------ | ------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -56,6 +58,62 @@ digital electronics are the backbone of modern technology, enabling us to store,
 
 In digital electronics logic levels represent the two binary states (0 and 1). these two states are represented by the specific voltage levels . a logic high is represented by a high 
 voltage,while a logic low is represented by a low voltage,often ground 0v.these voltages will be depend on the technology used such as TTL and CMOS and other logic familes.proper logic levels are requiered for proper functioning.
+
+# number systems
+
+*Number systems* ate essential for representing and manipulating within the elvtronic circuits and devices.they are *binary, octal, decimal,and hexadecimal*.
+
+These systems are different bases (2 8 10 and 16 respectively) to represent the numerical values.
+
+-**Binary number system:**
+uses only two digits.
+Each position in a binry number reoresents apower of 2.
+these system is used in digital circuits and computer systems because its easy to represent using on/off switches or voltage levels.
+
+-**octal number system:**
+uses digits 0 through 7.
+Each position representsa power of 8.
+can be used as shorthand for representing the numbers as each octal digits corresponds to three binary digits.
+
+-**Decimal number system:**
+these system uses digits only 0 through 9.
+each position represnts a power of 10.
+
+-**Hexa decimal number systeem:**
+uses digits 0 to 9 and letters A to F to represent the values 10-15.
+It is used in computer programming and memory adress represntation.
+
+# Conversion between the number system
+
+Converting between number systems—binary (base-2), decimal (base-10), octal (base-8), and hexadecimal (base-16)—is a fundamental skill in computer science and digital electronics. Here's a concise guide with examples and methods for each conversion:
+
+-**decimal to binary:**
+divide the decimal number by 2,and take the remainder and read the remainders from from bottom to top.
+
+-**decimal to octal:**
+divide the decimal number by 8, and take the remainder and read the remainders from bottom to top.
+
+-**decimal to hexa decimal:**
+divide the decimal number by 16, and recording the remainders , use A to F FROM 10 to 25,and read the remainders from bottom to top
+
+-**Binary to decimal:**
+Multiply each binary digit by 2 raised to the power of its position (starting from 0 on the right). Sum the results.
+
+-**Binary to octal:**
+Group the binary digits into sets of three (from right to left). Convert each group to its octal equivalent.
+
+-**Bnary to hexadecimal:**
+Group the binary digits into sets of four (from right to left). Convert each group to its hexadecimal equivalent.
+
+
+
+
+
+
+
+
+
+
 
 
 
