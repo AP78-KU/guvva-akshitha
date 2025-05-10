@@ -31,8 +31,31 @@ digital electronics are the backbone of modern technology, enabling us to store,
 - **entertainment:** TVs, video game consoles, music players.
 - **medical applications:** X ray machines,MRI scanners,patient monitoring systems.medical devices.
 - **home appliances:** refrigerators, washing machines, microwaves.
-- 
+-
+-       # Digital vs Analog signals
 
+| Feature            | Analog Signals                        | Digital Signals                          |                                                                                                                           |
+| ------------------ | ------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Signal Type**    | Continuous                            | Discrete                                 |                                                                                                                           |
+| **Representation** | Smooth waveforms                      | Square waveforms                         |                                                                                                                           |
+| **Noise Immunity** | Low                                   | High                                     |                                                                                                                           |
+| **Accuracy**       | High precision                        | Limited by bit depth                     |                                                                                                                           |
+| **Processing**     | Analog circuits (amplifiers, filters) | Digital circuits (microprocessors, etc.) |                                                                                                                           |
+| **Storage**        | Requires physical media (e.g., tapes) | Stored digitally (e.g., hard drives)     |                                                                                                                           |
+| **Transmission**   | Degrades over distance                | Maintains integrity over distances       | ([Pediaa.Com][1], [Wikipedia][2], [aimdynamics.com][3], [PSC Exams][4], [Sinjet][5], [Electrical Vani][6], [SimiTech][7]) |
+
+[1]: https://pediaa.com/difference-between-analog-and-digital-signals/?utm_source=chatgpt.com "Difference Between Analog and Digital Signals"
+[2]: https://en.wikipedia.org/wiki/Digital_signal?utm_source=chatgpt.com "Digital signal"
+[3]: https://aimdynamics.com/analog-vs-digital-signal?utm_source=chatgpt.com "Aim Dynamics | Difference between Analog and Digital Signal"
+[4]: https://exam.pscnotes.com/difference-between-digital-and-analog/?utm_source=chatgpt.com "Difference between Digital and analog - PSC Exams"
+[5]: https://sinjet.us/blogs/news/differences-between-digital-and-analog-signals?utm_source=chatgpt.com "Differences Between Digital and Analog Signals"
+[6]: https://electricalvani.com/difference-between-analog-and-digital-signals?utm_source=chatgpt.com "Difference Between Analog And Digital Signals (Comparison Table) - Electrical Vani"
+[7]: https://simitech.in/difference-between-analog-and-digital-signal/?utm_source=chatgpt.com "What Are The Difference Between Analog And Digital Signal - SimiTech"
+
+# logic levels of digital electronics
+
+In digital electronics logic levels represent the two binary states (0 and 1). these two states are represented by the specific voltage levels . a logic high is represented by a high 
+voltage,while a logic low is represented by a low voltage,often ground 0v.these voltages will be depend on the technology used such as TTL and CMOS and other logic familes.proper logic levels are requiered for proper functioning.
 
 
 
